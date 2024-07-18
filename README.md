@@ -4,6 +4,8 @@
 
 ![video test](figs/got.gif)
 
+⬆️ Frame-by-frame enhancement of a low-light clip from the Game of Thrones television series.
+
 ___
 🎉✨ The repository now includes an example notebook with a demo that shows the code execution.
 ___
