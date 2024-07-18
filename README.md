@@ -2,6 +2,8 @@
 
 \[[Paper](https://arxiv.org/abs/2407.12511)\] \[[Demo notebook](https://github.com/ctom2/colie/blob/main/notebook.ipynb)\]
 
+![video test](figs/got.gif)
+
 ___
 🎉✨ The repository now includes an example notebook with demo that shows the code execution.
 ___
