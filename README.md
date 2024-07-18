@@ -5,7 +5,7 @@
 ![video test](figs/got.gif)
 
 ___
-🎉✨ The repository now includes an example notebook with demo that shows the code execution.
+🎉✨ The repository now includes an example notebook with a demo that shows the code execution.
 ___
 
 ![low light image enhancement](figs/intro.png)
