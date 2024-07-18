@@ -4,7 +4,7 @@
 
 ![video test](figs/got.gif)
 
-⬆️ Frame-by-frame enhancement of a low-light clip from the Game of Thrones television series.
+⬆️ Frame-by-frame enhancement of a low-light clip from the Game of Thrones television series that shows the flexibility and adaptability of CoLIE to different exposure levels and various scenes.
 
 ___
 🎉✨ The repository now includes an example notebook with a demo that shows the code execution.
