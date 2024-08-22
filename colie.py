@@ -62,10 +62,10 @@ for PATH in tqdm(np.sort(os.listdir(opt.input_folder))):
 
         img_v_fixed_lr = (img_v_lr) / (illu_lr + 1e-4)
 
-        loss_spa = torch.mean(torch.abs(torch.pow(illu_lr - img_v_lr, 2))) * opt.alpha
-        loss_tv  = l_TV(illu_lr) * opt.beta
-        loss_exp = torch.mean(l_exp(illu_lr)) * opt.gamma
-        loss_sparsity = torch.mean(img_v_fixed_lr) * opt.delta
+        loss_spa = torch.mean(torch.abs(torch.pow(illu_lr - img_v_lr, 2)))
+        loss_tv  = l_TV(illu_lr)
+        loss_exp = torch.mean(l_exp(illu_lr))
+        loss_sparsity = torch.mean(img_v_fixed_lr)
 
 
         loss = loss_spa * opt.alpha + loss_tv * opt.beta + loss_exp * opt.gamma + loss_sparsity * opt.delta
