@@ -59,6 +59,10 @@ The strength of the regularisation terms in the loss functon is defined by the f
 
 ![results microscopy](figs/microscopy.png)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ctom2/colie&type=Date)](https://star-history.com/#ctom2/colie&Date)
+
 ## Citation
 
 ```
