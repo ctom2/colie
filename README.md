@@ -2,6 +2,10 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2407.12511-b31b1b.svg)](https://arxiv.org/abs/2407.12511) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ctom2/colie)
 
+
+This is the official implementation of CoLIE: Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations.
+
+
 ![video test](figs/got.gif)
 
 ⬆️ Frame-by-frame enhancement of a low-light clip from the Game of Thrones television series that shows the flexibility and adaptability of CoLIE to different exposure levels and various scenes.
