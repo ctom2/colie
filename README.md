@@ -61,6 +61,8 @@ The strength of the regularisation terms in the loss functon is defined by the f
 
 ## Citation
 
+Please consider citing our paper if our code are useful:
+
 ```
 @misc{chobola2024fast,
       title={Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations}, 
