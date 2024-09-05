@@ -1,6 +1,6 @@
 # Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations, ECCV 2024
 
-\[[Paper](https://arxiv.org/abs/2407.12511)\] \[[Demo notebook](https://github.com/ctom2/colie/blob/main/notebook.ipynb)\]
+[![arXiv](https://img.shields.io/badge/arXiv-2407.12511-b31b1b.svg)](https://arxiv.org/abs/2407.12511) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ctom2/colie)
 
 ![video test](figs/got.gif)
 
