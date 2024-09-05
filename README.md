@@ -1,4 +1,4 @@
-# Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations, ECCV 2024
+<h1 align="center"><img src="figs/colie.png" align="center" width="6.5%"><strong>Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations [ECCV 2024]</strong></h1>
 
 <p align="left">
   <p align="left">
