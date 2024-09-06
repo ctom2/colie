@@ -12,21 +12,24 @@
   </p>
 </p>
 
-
-[![arXiv](https://img.shields.io/badge/arXiv-2407.12511-fbe606.svg)](https://arxiv.org/abs/2407.12511) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ctom2/colie) [![GitHub stars](https://badgen.net/github/stars/ctom2/colie/)](https://GitHub.com/ctom2/colie/)
-
-This is the official implementation of **CoLIE**.
-
+[[`Paper`](https://arxiv.org/abs/2407.12511)] [[`Colab demo`](https://colab.research.google.com/github/ctom2/colie)] [[`BibTeX`](#citing-colie)]
 
 ![video test](figs/got.gif)
 
-⬆️ Frame-by-frame enhancement of a low-light clip from the Game of Thrones television series that shows the **flexibility and adaptability** of CoLIE to different exposure levels and various scenes.
+🔥 Frame-by-frame enhancement of a low-light clip from Game of Thrones.
 
-___
+## Overview
 
 ![low light image enhancement](figs/intro-b.png)
 
+<!---
 Current deep learning-based low-light image enhancement methods often struggle with high-resolution images, and fail to meet the practical demands of visual perception across diverse and unseen scenarios. In this paper, we introduce a novel approach termed CoLIE, which redefines the enhancement process through mapping the 2D coordinates of an underexposed image to its illumination component, conditioned on local context. We propose a reconstruction of enhanced-light images within the HSV space utilizing an implicit neural function combined with an embedded guided filter, thereby significantly reducing computational overhead. Moreover, we introduce a single image-based training loss function to enhance the model’s adaptability to various scenes, further enhancing its practical applicability. Through rigorous evaluations, we analyze the properties of our proposed framework, demonstrating its superiority in both image quality and scene adaptability. Furthermore, our evaluation extends to applications in downstream tasks within low- light scenarios, underscoring the practical utility of CoLIE. 
+-->
+
+- **Challenges with Current Methods:** Existing deep learning methods for low-light image enhancement struggle with high-resolution images, and they often fail to meet practical visual perception needs in diverse, unseen scenarios.
+- **Introduction of CoLIE:** CoLIE is a novel approach for enhancing low-light images. It works by mapping 2D coordinates of underexposed images to their illumination components, conditioned on local context.
+- **Methodology:** The method utilizes HSV color space for image reconstruction. It employs an implicit neural function along with an embedded guided filter to further reduce computational overhead.
+- **Innovations in Training:** CoLIE introduces a single image-based training loss function. This function aims to improve the model's adaptability across various scenes, enhancing its practical applicability.
 
 ## Neural Implicit Representation for Low-Light Enhancement
 
@@ -62,23 +65,26 @@ The strength of the regularisation terms in the loss functon is defined by the f
 * `--delta`: sparsity level (default setting: `5`)
 
 
+<!---
 ## Comparison With the State-Of-The-Art for Low-Light Image Enhancement
 
 ![results mit](figs/results1.png)
 
 ![results darkface](figs/results2.png)
+-->
+
 
 
 ## Fluorescence Microscopy Intensity Correction
 
-![results microscopy](figs/microscopy.png)
+![results microscopy](figs/microscopy-b.png)
 
-## Citation
+## Citing CoLIE
 
 Please consider citing our paper if our code are useful:
 
-```
-@misc{chobola2024fast,
+```bibtex
+@article{chobola2024fast,
       title={Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations}, 
       author={Tomáš Chobola and Yu Liu and Hanyi Zhang and Julia A. Schnabel and Tingying Peng},
       year={2024},
