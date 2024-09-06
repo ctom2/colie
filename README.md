@@ -13,8 +13,7 @@
 </p>
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.12511-b31b1b.svg)](https://arxiv.org/abs/2407.12511) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ctom2/colie) [![GitHub stars](https://badgen.net/github/stars/ctom2/colie/)](https://GitHub.com/ctom2/colie/) [![GitHub latest commit](https://badgen.net/github/last-commit/ctom2/colie/)](https://GitHub.com/ctom2/colie/commit/)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2407.12511-fbe606.svg)](https://arxiv.org/abs/2407.12511) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ctom2/colie) [![GitHub stars](https://badgen.net/github/stars/ctom2/colie/)](https://GitHub.com/ctom2/colie/)
 
 This is the official implementation of **CoLIE**.
 
