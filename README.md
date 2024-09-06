@@ -7,16 +7,18 @@
 <blockquote>
   <p align="left">
     <p align="left">
-      <a href='https://chobola.ai/' target='_blank'>Tomáš Chobola*</a>&emsp;
+      <a href='https://chobola.ai/' target='_blank'>Tomáš Chobola</a>*&emsp;
       <a href='' target='_blank'>Yu Liu</a>&emsp;
       <a href='https://scholar.google.de/citations?user=ZE_mde0AAAAJ&hl=cs&oi=sra' target='_blank'>Hanyi Zhang</a>&emsp;
       <a href='https://scholar.google.de/citations?user=FPykfZ0AAAAJ&hl=cs&oi=ao' target='_blank'>Julia A. Schnabel</a>&emsp;
-      <a href='https://scholar.google.de/citations?user=jUiKc6QAAAAJ&hl=cs&oi=sra' target='_blank'>Tingying Peng</a>&emsp;
+      <a href='https://scholar.google.de/citations?user=jUiKc6QAAAAJ&hl=cs&oi=sra' target='_blank'>Tingying Peng</a>*&emsp;
       <br>
       Technical University of Munich&emsp;Helmholtz AI&emsp;King’s College London
     </p>
   </p>
 </blockquote>
+
+\* Corresponding author
 
 Accepted to **ECCV 2024**.
 
