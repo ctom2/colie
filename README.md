@@ -78,7 +78,7 @@ Please refer to the example in [notebook.ipynb](./notebook.ipynb) (or in Colab [
 ## Results
 
 ![sota comparison](figs/sota.png)
-> Comparison with the state-of-the-art for zero-shot low-light image enhancement.
+> Comparison with the state-of-the-art for zero-shot low-light image enhancement ([RUAS](https://github.com/KarelZhang/RUAS), [SCI](https://github.com/vis-opt-group/SCI/)).
 
 ![results microscopy](figs/microscopy-b.png)
 > Fluorescence microscopy intensity correction.
