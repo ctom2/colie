@@ -1,18 +1,24 @@
-<h1 align="center"><img src="figs/colie.png" align="center" width="6.5%"><strong>Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations [ECCV 2024]</strong></h1>
+<h1 align="left"><img src="figs/colie.png" align="center" width="6.5%"><strong>CoLIE</strong></h1>
 
-<p align="left">
+#### [[`Paper`](https://arxiv.org/abs/2407.12511)] [[`Colab demo`](https://colab.research.google.com/github/ctom2/colie)] [[`BibTeX`](#citing-colie)]
+
+> Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations
+
+<blockquote>
   <p align="left">
-    <a href='https://chobola.ai/' target='_blank'>Tomáš Chobola*</a>&emsp;
-    <a href='' target='_blank'>Yu Liu</a>&emsp;
-    <a href='https://scholar.google.de/citations?user=ZE_mde0AAAAJ&hl=cs&oi=sra' target='_blank'>Hanyi Zhang</a>&emsp;
-    <a href='https://scholar.google.de/citations?user=FPykfZ0AAAAJ&hl=cs&oi=ao' target='_blank'>Julia A. Schnabel</a>&emsp;
-    <a href='https://scholar.google.de/citations?user=jUiKc6QAAAAJ&hl=cs&oi=sra' target='_blank'>Tingying Peng</a>&emsp;
-    <br>
-    Technical University of Munich&emsp;Helmholtz AI&emsp;King’s College London
+    <p align="left">
+      <a href='https://chobola.ai/' target='_blank'>Tomáš Chobola*</a>&emsp;
+      <a href='' target='_blank'>Yu Liu</a>&emsp;
+      <a href='https://scholar.google.de/citations?user=ZE_mde0AAAAJ&hl=cs&oi=sra' target='_blank'>Hanyi Zhang</a>&emsp;
+      <a href='https://scholar.google.de/citations?user=FPykfZ0AAAAJ&hl=cs&oi=ao' target='_blank'>Julia A. Schnabel</a>&emsp;
+      <a href='https://scholar.google.de/citations?user=jUiKc6QAAAAJ&hl=cs&oi=sra' target='_blank'>Tingying Peng</a>&emsp;
+      <br>
+      Technical University of Munich&emsp;Helmholtz AI&emsp;King’s College London
+    </p>
   </p>
-</p>
+</blockquote>
 
-[[`Paper`](https://arxiv.org/abs/2407.12511)] [[`Colab demo`](https://colab.research.google.com/github/ctom2/colie)] [[`BibTeX`](#citing-colie)]
+Accepted to **ECCV 2024**.
 
 ![video test](figs/got.gif)
 
