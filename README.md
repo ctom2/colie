@@ -35,7 +35,7 @@ Current deep learning-based low-light image enhancement methods often struggle w
 -->
 
 - **Challenges with Current Methods:** Existing deep learning methods for low-light image enhancement struggle with high-resolution images, and they often fail to meet practical visual perception needs in diverse, unseen scenarios.
-- **Introduction of CoLIE:** CoLIE is a novel approach for enhancing low-light images. It works by mapping 2D coordinates of underexposed images to their illumination components, conditioned on local context.
+- **Introduction of CoLIE:** CoLIE (**Co**ntext-Based **L**ow-Light **I**mage **E**nhancement) is a novel approach for enhancing low-light images. It works by mapping 2D coordinates of underexposed images to their illumination components, conditioned on local context.
 - **Methodology:** The method utilizes HSV color space for image reconstruction. It employs an implicit neural function along with an embedded guided filter to further reduce computational overhead.
 - **Innovations in Training:** CoLIE introduces a single image-based training loss function. This function aims to improve the model's adaptability across various scenes, enhancing its practical applicability.
 
@@ -75,15 +75,9 @@ The strength of the regularisation terms in the loss functon is defined by the f
 
 Please refer to the example in [notebook.ipynb](./notebook.ipynb) (or in Colab [here](https://colab.research.google.com/github/ctom2/colie)) for example code execution and visualisation.
 
-<!---
 ## Comparison With the State-Of-The-Art for Low-Light Image Enhancement
 
-![results mit](figs/results1.png)
-
-![results darkface](figs/results2.png)
--->
-
-
+![sota comparison](figs/sota.png)
 
 ## Fluorescence Microscopy Intensity Correction
 
