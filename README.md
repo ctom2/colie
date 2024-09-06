@@ -46,7 +46,7 @@ Our proposed framework begins with the extraction of the Value component from th
 
 ### Running the code
 
-```
+```bash
 python colie.py
 ```
 
@@ -64,6 +64,8 @@ The strength of the regularisation terms in the loss functon is defined by the f
 * `--gamma`: exposure control (default setting: `8`)
 * `--delta`: sparsity level (default setting: `5`)
 
+
+Please refer to the example in [notebook.ipynb](./notebook.ipynb) (or in Colab [here](https://colab.research.google.com/github/ctom2/colie)) for example code execution and visualisation.
 
 <!---
 ## Comparison With the State-Of-The-Art for Low-Light Image Enhancement
