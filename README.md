@@ -83,6 +83,10 @@ Please refer to the example in [notebook.ipynb](./notebook.ipynb) (or in Colab [
 ![results microscopy](figs/microscopy-b.png)
 > Fluorescence microscopy intensity correction.
 
+![darkface grid](figs/results-grid-small.jpg)
+> Results on the DarkFace dataset.
+
+
 ## Citing CoLIE
 
 Please consider citing our paper if our code are useful:
