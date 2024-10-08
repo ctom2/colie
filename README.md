@@ -91,14 +91,6 @@ Please refer to the example in [notebook.ipynb](./notebook.ipynb) (or in Colab [
 
 Please consider citing our paper if our code are useful:
 
-@inproceedings{huang2022rife,
-  title={Real-Time Intermediate Flow Estimation for Video Frame Interpolation},
-  author={Huang, Zhewei and Zhang, Tianyuan and Heng, Wen and Shi, Boxin and Zhou, Shuchang},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-  year={2022}
-}
-
-
 ```bibtex
 @inproceedings{chobola2024fast,
       title={Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations}, 
